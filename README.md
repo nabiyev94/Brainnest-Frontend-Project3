@@ -4,6 +4,7 @@ Implementation:
 
 For user input: 
                 function playerPlay(){...}
+                
 Random choice: 
                 function computerPlay() {...}
 
