@@ -10,5 +10,6 @@ Random choice:
 
 Single game round: 
                   function playRound(playerSelection, computerSelection) {...}
+
 The whole game consists of 5 rounds:
                                     function game() {...}
